@@ -57,6 +57,11 @@ body{
     color: #fff;
     z-index: none;
 }
+.container .card .content p{
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300px;
+}
 .container .card .content a{
     position: relative;
     display: inline-block;
